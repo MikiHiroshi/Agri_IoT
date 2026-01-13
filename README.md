@@ -1,5 +1,9 @@
 # Agri_IoT
 
+### ArduinoIDEのインストール方法と設定方法
+ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md
+https://github.com/MikiHiroshi/Agri_IoT/blob/main/ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md
+
 
 ### 【ATOMS3】ATOMS3とDLight Unitで照度ログモニターを作る（Ambient連携・グラフ表示）
 - ATOMS3_DLight_Monitor/src/Documentation.md
