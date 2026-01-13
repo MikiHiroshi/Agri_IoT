@@ -1,4 +1,4 @@
-# 【M5Stack】ATOMS3とUnit EnvIVで温湿度・気圧ロガーを作る（Ambient連携・3軸グラフ）
+# 【M5Stack】ATOMS3とUnit EnvIVで温湿度・気圧ロガーを作る（Ambient連携・グラフ表示）
 
 ATOMS3と環境センサーユニット（Unit EnvIV）を使って、温度・湿度・気圧を同時に測定し、クラウド（Ambient）へ送信しつつ、3つのグラフを重ねてリアルタイム表示できるデバイスを作りました。
 
