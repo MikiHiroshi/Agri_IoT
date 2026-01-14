@@ -16,8 +16,9 @@ Arduino IDEのサイトからdownloadしてインストールする。
 
 3. Installing Arduino Libraries
 
-    - この項の中の Installing Arduino Library Management では自分の使うマイコン用のライブラリ（M5AtomS3 by M5Stack、M5StamPLC by M5Stackなど）を選択する。
-    - また、使用するセンサーに合わせて、M5-DLight by M5Stack, M5-Unit-ENV by M5Stackをインストールする。
+    - この項の中の Installing Arduino Library Management では自分の使うマイコン用のライブラリ（**M5AtomS3 by M5Stack**、**M5StamPLC by M5Stack**など）を選択する。
+    - また、使用するセンサーに合わせて、**M5-DLight by M5Stack**, **M5-Unit-ENV by M5Stack**をインストールする。
+    - Ambientへデータを送信するため、ライブラリ**Ambient ESP32 ESP8266 lib by Ambient**もインストールする。
     - Manual Installation with Gitは必要なし。（手順としてスキップ）
     - Examples　も必要なし。（手順としてスキップ）
 
@@ -152,3 +153,4 @@ void loop() {
   👉「ボード or ポートの選択ミス」
 
 ---
+
