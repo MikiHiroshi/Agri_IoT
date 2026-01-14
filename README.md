@@ -1,5 +1,8 @@
 # Agri_IoT
 
+###資料
+- [資料: 農業IoT.pdf](https://github.com/MikiHiroshi/Agri_IoT/blob/main/%E8%BE%B2%E6%A5%ADIoT.pdf)
+
 ### ArduinoIDEのインストール方法と設定方法
 - [ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md](https://github.com/MikiHiroshi/Agri_IoT/blob/main/ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md)  
 
