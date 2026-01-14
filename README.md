@@ -4,10 +4,8 @@
 - [ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md](https://github.com/MikiHiroshi/Agri_IoT/blob/main/ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md)  
 
 ### 【ATOMS3】ATOMS3とUnit EnvIIIで温湿度・気圧ロガーを作る（Ambient連携・グラフ表示）
-- ATOMS3_EnvIII_Monitor/src/Document.md  
-https://github.com/MikiHiroshi/Agri_IoT/blob/main/ATOMS3_EnvIII_Monitor/src/Document.md  
-- Arduino IDEスケッチ：ATOMS3_EnvIII_Monitor  
-https://github.com/MikiHiroshi/Agri_IoT/tree/main/ATOMS3_EnvIII_Monitor  
+- [ATOMS3_EnvIII_Monitor/src/Document.md](https://github.com/MikiHiroshi/Agri_IoT/blob/main/ATOMS3_EnvIII_Monitor/src/Document.md)  
+- [Arduino IDEスケッチ：ATOMS3_EnvIII_Monitor](https://github.com/MikiHiroshi/Agri_IoT/tree/main/ATOMS3_EnvIII_Monitor)  
 
 ### 【ATOMS3】ATOMS3とDLight Unitで照度ログモニターを作る（Ambient連携・グラフ表示）  
 - ATOMS3_DLight_Monitor/src/Documentation.md  
