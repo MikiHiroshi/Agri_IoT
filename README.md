@@ -3,6 +3,11 @@
 ### 資料
 - [資料: 農業IoT.pdf](https://github.com/MikiHiroshi/Agri_IoT/blob/main/%E8%BE%B2%E6%A5%ADIoT.pdf)
 
+### 百葉箱
+
+<img width="1104" height="566" alt="image" src="https://github.com/user-attachments/assets/9c885cd3-9f8b-4fba-875f-86aff510bcaa" />
+
+
 ### ArduinoIDEのインストール方法と設定方法
 - [説明：ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md](https://github.com/MikiHiroshi/Agri_IoT/blob/main/ArduinoIDE_Setting_Document/ArduinoIDE_Setting_Document.md)  
 
