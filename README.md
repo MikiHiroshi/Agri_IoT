@@ -5,7 +5,7 @@
 
 ### 百葉箱
 
-<img width="1104" height="566" alt="image" src="https://github.com/user-attachments/assets/9c885cd3-9f8b-4fba-875f-86aff510bcaa" />
+<img width="941" height="481" alt="image" src="https://github.com/user-attachments/assets/a3742ef0-3003-4bb4-ad13-a1359a324ddc" />
 
 
 ### ArduinoIDEのインストール方法と設定方法
