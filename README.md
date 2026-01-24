@@ -24,5 +24,6 @@
 - [Arduino IDEスケッチ：M5StamPLC_DLIGHT_relay](https://github.com/MikiHiroshi/Agri_IoT/tree/main/M5StamPLC_DLIGHT_relay)
 
 ### 可視化ツールの構築方法
+ambientを使わずに自作する方法として
 - [M5Stack+EnvIIIデータを可視化(さくらのVPS+MQTT+Telegraf+InfluxDB+Grafana)する手順](https://qiita.com/MikH/items/9acea2aa11a52b18589a)
 
